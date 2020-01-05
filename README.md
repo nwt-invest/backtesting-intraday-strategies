@@ -24,4 +24,5 @@ where i = 1, . . . , N labels the stocks in the trading universe, and Ai are the
 
 Including such costs in portfolio optimization amounts to replacing the expected return of the portfolio
 
-(https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Screenshot](screenshot.png)
+
